@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuildAutomation", "BuildAutomation\BuildAutomation.csproj", "{0BC4DC94-18D9-4E2B-9BEE-3A844B78FD01}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTest", "ClassLibrary1\UnitTest.csproj", "{D27874C1-BC1B-41CC-BA0F-3CA975DF7B45}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UtilityLibtesting", "UtilityLibtesting\UtilityLibtesting.csproj", "{F8EC796C-7D3B-4861-BB99-6740E3F73C3E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0BC4DC94-18D9-4E2B-9BEE-3A844B78FD01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BC4DC94-18D9-4E2B-9BEE-3A844B78FD01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BC4DC94-18D9-4E2B-9BEE-3A844B78FD01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BC4DC94-18D9-4E2B-9BEE-3A844B78FD01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D27874C1-BC1B-41CC-BA0F-3CA975DF7B45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D27874C1-BC1B-41CC-BA0F-3CA975DF7B45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D27874C1-BC1B-41CC-BA0F-3CA975DF7B45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D27874C1-BC1B-41CC-BA0F-3CA975DF7B45}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8EC796C-7D3B-4861-BB99-6740E3F73C3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8EC796C-7D3B-4861-BB99-6740E3F73C3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8EC796C-7D3B-4861-BB99-6740E3F73C3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8EC796C-7D3B-4861-BB99-6740E3F73C3E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

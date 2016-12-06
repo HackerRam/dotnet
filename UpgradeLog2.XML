@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="BuildAutomation">
+</Property><Property Name="Solution File" Value="D:\Arthi\Agile Engineering\BuildAutomation\BuildAutomation.sln">
+</Property><Property Name="Date" Value="Tuesday, May 26, 2015">
+</Property><Property Name="Time" Value="16:09 PM">
+</Property><Property Name="Log Number" Value="2">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="BuildAutomation.sln" Description="File successfully backed up as D:\Arthi\Agile Engineering\BuildAutomation\Backup1\BuildAutomation.sln">
+</Event><Event ErrorLevel="0" Project="BuildAutomation" Source="BuildAutomation\BuildAutomation.csproj" Description="Project file successfully backed up as D:\Arthi\Agile Engineering\BuildAutomation\Backup1\BuildAutomation\BuildAutomation.csproj">
+</Event><Event ErrorLevel="0" Project="BuildAutomation" Source="BuildAutomation\index.aspx.cs" Description="File successfully backed up as D:\Arthi\Agile Engineering\BuildAutomation\Backup1\BuildAutomation\index.aspx.cs">
+</Event><Event ErrorLevel="0" Project="BuildAutomation" Source="BuildAutomation\index.aspx.designer.cs" Description="File successfully backed up as D:\Arthi\Agile Engineering\BuildAutomation\Backup1\BuildAutomation\index.aspx.designer.cs">
+</Event><Event ErrorLevel="0" Project="BuildAutomation" Source="BuildAutomation\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\Arthi\Agile Engineering\BuildAutomation\Backup1\BuildAutomation\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="BuildAutomation" Source="BuildAutomation\Properties\PublishProfiles\buildanddeploy.pubxml" Description="File successfully backed up as D:\Arthi\Agile Engineering\BuildAutomation\Backup1\BuildAutomation\Properties\PublishProfiles\buildanddeploy.pubxml">
+</Event><Event ErrorLevel="0" Project="BuildAutomation" Source="BuildAutomation\index.aspx" Description="File successfully backed up as D:\Arthi\Agile Engineering\BuildAutomation\Backup1\BuildAutomation\index.aspx">
+</Event><Event ErrorLevel="0" Project="BuildAutomation" Source="BuildAutomation\Web.config" Description="File successfully backed up as D:\Arthi\Agile Engineering\BuildAutomation\Backup1\BuildAutomation\Web.config">
+</Event><Event ErrorLevel="0" Project="BuildAutomation" Source="BuildAutomation\Web.Debug.config" Description="File successfully backed up as D:\Arthi\Agile Engineering\BuildAutomation\Backup1\BuildAutomation\Web.Debug.config">
+</Event><Event ErrorLevel="0" Project="BuildAutomation" Source="BuildAutomation\Web.Release.config" Description="File successfully backed up as D:\Arthi\Agile Engineering\BuildAutomation\Backup1\BuildAutomation\Web.Release.config">
+</Event><Event ErrorLevel="0" Project="BuildAutomation" Source="BuildAutomation\BuildAutomation.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="BuildAutomation" Source="BuildAutomation\BuildAutomation.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="UnitTest" Source="ClassLibrary1\UnitTest.csproj" Description="Project file successfully backed up as D:\Arthi\Agile Engineering\BuildAutomation\Backup1\ClassLibrary1\UnitTest.csproj">
+</Event><Event ErrorLevel="0" Project="UnitTest" Source="ClassLibrary1\UtilityLib.cs" Description="File successfully backed up as D:\Arthi\Agile Engineering\BuildAutomation\Backup1\ClassLibrary1\UtilityLib.cs">
+</Event><Event ErrorLevel="0" Project="UnitTest" Source="ClassLibrary1\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\Arthi\Agile Engineering\BuildAutomation\Backup1\ClassLibrary1\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="UnitTest" Source="ClassLibrary1\UnitTest.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="UnitTest" Source="ClassLibrary1\UnitTest.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="UtilityLibtesting" Source="UtilityLibtesting\UtilityLibtesting.csproj" Description="Project file successfully backed up as D:\Arthi\Agile Engineering\BuildAutomation\Backup1\UtilityLibtesting\UtilityLibtesting.csproj">
+</Event><Event ErrorLevel="0" Project="UtilityLibtesting" Source="UtilityLibtesting\TestCase.cs" Description="File successfully backed up as D:\Arthi\Agile Engineering\BuildAutomation\Backup1\UtilityLibtesting\TestCase.cs">
+</Event><Event ErrorLevel="0" Project="UtilityLibtesting" Source="UtilityLibtesting\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\Arthi\Agile Engineering\BuildAutomation\Backup1\UtilityLibtesting\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="UtilityLibtesting" Source="UtilityLibtesting\UtilityLibtesting.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="UtilityLibtesting" Source="UtilityLibtesting\UtilityLibtesting.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="" Source="BuildAutomation.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="BuildAutomation.sln" Description="Converted">
+</Event></UpgradeLog>

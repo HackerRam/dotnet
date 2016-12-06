@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="C:\Program Files (x86)\Jenkins\jobs\BuildAutomationonJenkins\workspace\UtilityLibtesting\bin\Debug\UtilityLibtesting.dll" total="7" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2015-05-15" time="16:10:17">
+  <environment nunit-version="2.6.4.14350" clr-version="2.0.50727.5485" os-version="Microsoft Windows NT 6.1.7601 Service Pack 1" platform="Win32NT" cwd="C:\Program Files (x86)\Jenkins\jobs\BuildAutomationonJenkins\workspace" machine-name="CDCALTASVM232" user="SYSTEM" user-domain="WIPRO" />
+  <culture-info current-culture="en-IN" current-uiculture="en-US" />
+  <test-suite type="Assembly" name="C:\Program Files (x86)\Jenkins\jobs\BuildAutomationonJenkins\workspace\UtilityLibtesting\bin\Debug\UtilityLibtesting.dll" executed="True" result="Success" success="True" time="0.192" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="UtilityLibtesting" executed="True" result="Success" success="True" time="0.180" asserts="0">
+        <results>
+          <test-suite type="TestFixture" name="TestCase" executed="True" result="Success" success="True" time="0.178" asserts="0">
+            <results>
+              <test-case name="UtilityLibtesting.TestCase.FiveThousand_G_E" executed="True" result="Success" success="True" time="0.128" asserts="1" />
+              <test-case name="UtilityLibtesting.TestCase.OneThousand" executed="True" result="Success" success="True" time="0.007" asserts="1" />
+              <test-case name="UtilityLibtesting.TestCase.OneThousand_Below" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="UtilityLibtesting.TestCase.OneThousand_G_E" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="UtilityLibtesting.TestCase.TwoThousand" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="UtilityLibtesting.TestCase.TwoThousand_G_E" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="UtilityLibtesting.TestCase.ZeroAmount" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>
